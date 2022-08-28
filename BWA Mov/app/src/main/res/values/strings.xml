@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BWA Move</string>
+    <string name="lewati_perkenalan">LEWATI PERKENALAN</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui \nfilm yang sedang tayang</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="pre_sale_des">Tidak khawatir ketinggalan \nupdate film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_des">Gunakan e-wallet untuk \ntransaksi tiket nonton</string>
+    <string name="memulai">MEMULAI</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="zulfikri">Zulfikri</string>
+    <string name="email">Email</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang,\nZulfikri Maulana</string>
+    <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
+</resources>
